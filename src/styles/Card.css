@@ -1,0 +1,15 @@
+a:hover span {
+  color: rgba(176, 16, 16, 0.912) !important;
+  transition: 500ms;
+  transform: scale(1.1);
+}
+
+.card-body {
+  color: #303841 !important;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  transition: 500ms;
+}
+
